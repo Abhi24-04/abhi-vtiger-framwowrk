@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.crm.vtiger.opportunity.TestCases.TC_18_CreateOpportunityWithSalesStageProposalOrPriceQuote_Test">
+        <methods>
+          <include name="configAfterTest"/>
+          <include name="configAfterClass"/>
+          <include name="setUp"/>
+          <include name="configAfterSuite"/>
+          <include name="configBeforSuite"/>
+          <include name="tearDown"/>
+          <include name="configBeforTest"/>
+          <include name="configBeforeClass"/>
+          <include name="createOpportunity_03"/>
+        </methods>
+      </class> <!-- com.crm.vtiger.opportunity.TestCases.TC_18_CreateOpportunityWithSalesStageProposalOrPriceQuote_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
